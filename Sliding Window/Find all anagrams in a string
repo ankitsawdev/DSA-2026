@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> findAnagrams(string s, string p) {
+        int k = p.length();
+
+        vector<int> result;
+        sort(p.begin(),p.end());
+
+        int n = s.length();
+
+        for(int i = 0;i<=n-k;i++){
+            string temp = s.substr(i,k);
+            sort(temp.begin(),temp.end());
+
+            if(temp == p){
+                result.push_back(i);
+            }
+        }
+
+        return result;
+    }
+};
