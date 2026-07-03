@@ -24,6 +24,7 @@
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitsawdev/DSA-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ankitsawdev/DSA-2026/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
