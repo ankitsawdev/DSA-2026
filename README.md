@@ -47,4 +47,5 @@
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/ankitsawdev/DSA-2026/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
