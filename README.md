@@ -62,4 +62,16 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ankitsawdev/DSA-2026/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
