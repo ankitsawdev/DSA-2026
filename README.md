@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/0208-implement-trie-prefix-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -32,11 +33,13 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ankitsawdev/DSA-2026/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
