@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/ankitsawdev/DSA-2026/tree/master/0537-complex-number-multiplication) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitsawdev/DSA-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitsawdev/DSA-2026/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsawdev/DSA-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitsawdev/DSA-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
