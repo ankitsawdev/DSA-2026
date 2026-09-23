@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [1672-richest-customer-wealth](https://github.com/ankitsawdev/DSA-2026/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitsawdev/DSA-2026/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
