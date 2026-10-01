@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0520-detect-capital](https://github.com/ankitsawdev/DSA-2026/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/ankitsawdev/DSA-2026/tree/master/0537-complex-number-multiplication) |
@@ -79,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
