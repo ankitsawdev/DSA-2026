@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0520-detect-capital](https://github.com/ankitsawdev/DSA-2026/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/ankitsawdev/DSA-2026/tree/master/0537-complex-number-multiplication) |
@@ -110,4 +111,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
