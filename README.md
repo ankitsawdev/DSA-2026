@@ -16,6 +16,7 @@
 | [0520-detect-capital](https://github.com/ankitsawdev/DSA-2026/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/ankitsawdev/DSA-2026/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/ankitsawdev/DSA-2026/tree/master/0657-robot-return-to-origin) |
+| [0856-score-of-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0856-score-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitsawdev/DSA-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ankitsawdev/DSA-2026/tree/master/2129-capitalize-the-title) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
