@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitsawdev/DSA-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/ankitsawdev/DSA-2026/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitsawdev/DSA-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitsawdev/DSA-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
