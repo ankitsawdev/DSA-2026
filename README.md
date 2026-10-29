@@ -23,6 +23,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitsawdev/DSA-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ankitsawdev/DSA-2026/tree/master/2129-capitalize-the-title) |
 | [3019-number-of-changing-keys](https://github.com/ankitsawdev/DSA-2026/tree/master/3019-number-of-changing-keys) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -99,10 +101,12 @@
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankitsawdev/DSA-2026/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -147,5 +152,14 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitsawdev/DSA-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
