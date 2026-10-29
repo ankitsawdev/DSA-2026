@@ -50,6 +50,7 @@
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ankitsawdev/DSA-2026/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +147,5 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitsawdev/DSA-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
