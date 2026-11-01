@@ -38,6 +38,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsawdev/DSA-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitsawdev/DSA-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitsawdev/DSA-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsawdev/DSA-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/ankitsawdev/DSA-2026/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/ankitsawdev/DSA-2026/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsawdev/DSA-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/ankitsawdev/DSA-2026/tree/master/0537-complex-number-multiplication) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitsawdev/DSA-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitsawdev/DSA-2026/tree/master/1822-sign-of-the-product-of-an-array) |
