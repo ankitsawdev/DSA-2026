@@ -8,6 +8,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitsawdev/DSA-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsawdev/DSA-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [2652-sum-multiples](https://github.com/ankitsawdev/DSA-2026/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ankitsawdev/DSA-2026/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsawdev/DSA-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Geometry
 |  |
 | ------- |
@@ -140,6 +145,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitsawdev/DSA-2026/tree/master/0022-generate-parentheses) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsawdev/DSA-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
