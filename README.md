@@ -52,6 +52,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsawdev/DSA-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/ankitsawdev/DSA-2026/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitsawdev/DSA-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankitsawdev/DSA-2026/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankitsawdev/DSA-2026/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitsawdev/DSA-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
