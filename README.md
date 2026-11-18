@@ -24,6 +24,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitsawdev/DSA-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ankitsawdev/DSA-2026/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ankitsawdev/DSA-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ankitsawdev/DSA-2026/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/ankitsawdev/DSA-2026/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsawdev/DSA-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
